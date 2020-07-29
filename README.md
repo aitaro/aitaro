@@ -1,1 +1,2 @@
-[![Aitaro's github stats](https://github-readme-stats.vercel.app/api?username=aitaro)](https://github.com/aitaro/github-readme-stats)
+[Aitaro's github stats](https://github-readme-stats.vercel.app/api?username=aitaro)]
+[Aitaro's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitaro]
