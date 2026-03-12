@@ -1,0 +1,17 @@
+version: '3'
+
+tasks:
+  dev:
+    desc: 開発サーバーを起動
+    cmds:
+      - npx vite --port 8765
+
+  build:
+    desc: プロダクションビルド
+    cmds:
+      - npm run build
+
+  preview:
+    desc: ビルド結果をプレビュー
+    cmds:
+      - npx vite preview --port 8765
